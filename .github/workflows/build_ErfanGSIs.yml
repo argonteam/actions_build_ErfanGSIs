@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://dl.google.com/developers/android/udc/images/gsi/aosp_arm64-exp-U1B1.230908.003-10811961-24d7d0fa.zip
   ROM_NAME: ArgonOS
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
